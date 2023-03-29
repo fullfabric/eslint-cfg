@@ -44,5 +44,8 @@
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.7"
   },
-  "prettier": "@fullfabric/prettier-cfg"
+  "prettier": "@fullfabric/prettier-cfg",
+  "files": [
+    "*.js"
+  ]
 }
